@@ -1,3 +1,3 @@
 <?php
-	echo "ini file dua.php";
+	echo "ini adalah file dua.php";
 ?>
